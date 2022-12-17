@@ -1,0 +1,3 @@
+
+idea:scrape data from IMDb website
+output:sava the movie name,movie rank,movie year and movie rate in excel sheet.
